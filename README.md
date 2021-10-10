@@ -26,18 +26,18 @@ I am a senior year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I 
 
 <h3>Skills</h3>
 
-<span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
-<span><img src="https://cdn.auth0.com/blog/react-js/react.png" height="64px"></span>
-<span><img src="https://pptr.dev/images/pptr.png" height="64px"></span>
-<span><img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="64px"></span>
+<span><img src="https://plumbr.io/app/uploads/2019/06/java.png" height="64px"></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="64px"></span>
+<span><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="70px"></span>
 <span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
+<span><img src="https://brandlogos.net/wp-content/uploads/2021/05/adobe-xd-logo.png" height="74px"></span>
 
 ----
 
 <h3>Hobbies</h3>
 <ul>
-  <li>Netflix and Chill
+  <li>Netflix and Chill</li>
 </ul>
 
 ----
