@@ -1,8 +1,8 @@
 <h2>About</h2>
 
 <span>
-  Hi, my name is <b>Aazam Jutt</b>, a student developer from Pakistan. <br>
-I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
+  Hi, my name is <b>Aazam Jutt</b>, a junior developer from Pakistan. <br>
+I am a senior year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
 </span>
 
 ----
