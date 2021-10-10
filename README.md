@@ -9,8 +9,8 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
 
 <h3>Interests</h3>
 <ul>
-  <li>Web Dev (React , Wordpress)</li>
-  <li>Desktop App Dev
+  <li>Web Development</li>
+  <li>Desktop App Development</li>
   <li>Problem Solving</li>
   <li>UX/UI Designing 🎨</li>
 </ul>
