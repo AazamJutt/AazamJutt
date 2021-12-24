@@ -9,7 +9,7 @@ I am a senior year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I 
 
 <h3>Interests</h3>
 <ul>
-  <li>Web Development</li>
+  <li>Web Development (MERN)</li>
   <li>Desktop App Development</li>
   <li>Problem Solving</li>
   <li>UX/UI Designing 🎨</li>
