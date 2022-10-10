@@ -2,7 +2,7 @@
 
 <span>
   Hi, my name is <b>Aazam Jutt</b>.
-I am a senior year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
+I am a CS graduate from <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
 </span>
 
 ----
