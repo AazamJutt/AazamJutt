@@ -9,10 +9,8 @@ I am a BSCS graduate from <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work
 
 <h3>Interests</h3>
 <ul>
-  <li>Web Development (MERN)</li>
-  <li>Desktop App Development</li>
-  <li>Problem Solving</li>
-  <li>UX/UI Designing 🎨</li>
+  <li>Web Development (MERN, Angular, RoR, Spring Boot)</li>
+  <li>React Native</li>
 </ul>
   
 ----
