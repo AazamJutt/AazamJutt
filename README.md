@@ -1,9 +1,8 @@
-<h2>About</h2>
+<h1 align="center">Hi 👋, I'm Muhammad Azam Sultan</h1>
+<h3 align="center">Software Engineer</h3>
 
-<span>
-  Hi, my name is <b>Aazam Jutt</b>.
-I am a BSCS graduate from <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
-</span>
+# 💫 About Me:
+🔭 I’m working as a Full Stack Software Engineer.<br>👨🏻‍💻 My primary stack is MERN.<br>🤝 I’m open to work on freelance projects<br>🌱 I also love creating apps with React Native.<br>🐴 I love to play chess
 
 ----
 
@@ -15,12 +14,10 @@ I am a BSCS graduate from <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work
   
 ----
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AazamJutt&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AazamJutt&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="335px"/>
-</div>
-
-----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AazamJutt&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AazamJutt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AazamJutt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3>Skills</h3>
 
@@ -34,11 +31,20 @@ I am a BSCS graduate from <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://brandlogos.net/wp-content/uploads/2021/05/adobe-xd-logo.png" height="74px"></span>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AazamJutt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### ✍️ Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AazamJutt&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ----
 
 <h3>Hobbies</h3>
 <ul>
-  <li>Netflix and Chill</li>
+  <li>Chess</li>
+  <li>Netfilx</li>
 </ul>
 
 ----
